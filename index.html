@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Custom PreHead code is injected here -->
+
+
+<head>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta charset="utf-8" />
+
+    <!-- Builtin injector for disabling cache -->
+    <meta http-equiv="pragma" content="no-cache" />
+
+    <!-- Set the title bar of the page -->
+    <title>Retro Bowl High School</title>
+
+    <!-- Custom PreStyle code is injected here -->
+
+
+    <!-- Set the background colour of the document -->
+    <style>
+        body {
+            background: #000;
+            color: #cccccc;
+            margin: 0px;
+            padding: 0px;
+            border: 0px;
+        }
+
+        canvas {
+            image-rendering: pixelated;
+            -webkit-interpolation-mode: nearest-neighbor;
+            -ms-touch-action: none;
+            touch-action: none;
+            margin: 0px;
+            padding: 0px;
+            border: 0px;
+        }
+
+        :-webkit-full-screen #canvas {
+            width: 100%;
+            height: 100%;
+        }
+
+        :-webkit-full-screen {
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Custom Runner Styles */
+        div.gm4html5_div_class {
+            margin: 0px;
+            padding: 0px;
+            border: 0px;
+        }
+
+        div.gm4html5_login {
+            padding: 20px;
+            position: absolute;
+            border: solid 2px #000000;
+            background-color: #404040;
+            color: #00ff00;
+            border-radius: 15px;
+            box-shadow: #101010 20px 20px 40px;
+        }
+
+        div.gm4html5_cancel_button {
+            float: right;
+        }
+
+        div.gm4html5_login_button {
+            float: left;
+        }
+
+        div.gm4html5_login_header {
+            text-align: center;
+        }
+
+        /* END - Custom Runner Styles */
+        :-webkit-full-screen {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+    <!-- Custom PostStyle code is injected here -->
+
+
+    <!-- Builtin injector for injecting flurry analytics code -->
+
+</head>
+
+<!-- Custom PostHead code is injected here -->
+
+
+<!-- Custom PreBody code is injected here -->
+
+
+<body>
+    <div class="gm4html5_div_class" id="gm4html5_div_id">
+
+        <!-- Builtin injector for splash screen -->
+        <img src="html5game/splash.png" id="GM4HTML5_loadingscreen" alt="GameMaker:HTML5 loading screen"
+            style="display:none;" />
+
+        <!-- Create the canvas element the game draws to -->
+        <canvas id="canvas" width="853" height="480"
+            style="position: absolute; top: 50%; left: 50%; bottom: -50%; right: -50%; transform: translate(-50%, -50%);">
+            <p>Your browser doesn't support HTML5 canvas.</p>
+        </canvas>
+    </div>
+
+    <!-- Run the game code -->
+    <script type="text/javascript" src="html5game/RetroBowl.js"></script>
+
+    <!-- Builtin injector for injecting runner path -->
+
+
+<script>window.PokiSDK=null;window.PokiSDK_OK=false;window.addEventListener('load',GameMaker_Init);</script>
+
+    <!-- Builtin injector for injecting google analytics code -->
+
+
+<style>
+#hsbar{position:fixed;z-index:1000;top:8px;left:8px;display:flex;gap:6px;font:13px system-ui;color:white}#hsbar button,#hspanel button,#hspanel select,#hspanel input{font:inherit;padding:10px 14px;border:1px solid #41516b;border-radius:8px;background:#18263a;color:#fff}#hspanel{position:fixed;inset:0;z-index:1001;overflow:auto;background:linear-gradient(130deg,#07101eee,#142a42fa);color:#e4ecf6;font:15px/1.5 system-ui;padding:clamp(18px,5vw,65px)}#hspanel>div{max-width:920px;margin:auto}#hspanel h1{font-size:clamp(30px,5vw,58px);line-height:1;margin:16px 0}#hspanel h2{font-size:20px}#hspanel p{color:#b8c8da}#hspanel .hsgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}#hspanel section{background:#101e31;border:1px solid #2c4058;padding:20px;border-radius:14px}#hspanel button{cursor:pointer;background:#1a4270;margin:5px 5px 5px 0}#hspanel label{display:block;margin:12px 0}#hspanel input{box-sizing:border-box;width:100%}#hsstatus{white-space:pre-wrap;color:#a9d8ff!important}#hsremote{display:none;position:fixed;inset:0;width:100vw;height:100vh;object-fit:contain;background:#000;z-index:900;touch-action:none}#hsbadge{background:#101e31dd;padding:10px;border-radius:8px;pointer-events:none}#hspanel [hidden]{display:none}
+</style>
+<video id="hsremote" autoplay playsinline muted></video>
+<div id="hsbar"><button id="hsmenu">HS MENU</button><span id="hsbadge">HIGH SCHOOL EDITION</span></div>
+<div id="hspanel"><div>
+<small>FRIDAY NIGHTS • 50 STATES • 200 SCHOOLS</small><h1>RETRO BOWL<br>HIGH SCHOOL</h1>
+<p>A fan-made modification of the supplied game. Original on-field engine, new schools and state competitions.</p>
+<div class="hsgrid"><section><h2>Build your program</h2>
+<label>Schedule for newly generated seasons <select id="hsschedule"><option value="state">State schedule</option><option value="national">National: six interstate games</option></select></label>
+<p>Twelve games, a week-16 rivalry finale, then state playoffs. Four selected schools per state. Recruiting, coach hiring and player meetings cost about 75% less.</p>
+<label>Away school <select id="hsaway"></select></label><label>Home school <select id="hshome"></select></label>
+<button id="hscareer">Continue to game</button><button id="hslocal">Two-player exhibition</button>
+<p>Local play: share the mouse or touchscreen, switching on each possession. Both teams play offense; defense stays simulated.</p></section>
+<section><h2>Online head-to-head</h2><p>The host runs the actual game. A guest receives the live field and controls the second team's possessions. Host selects teams and starts the match.</p>
+<button id="hshost">Host game</button><label>Invite link <input id="hsinvite" placeholder="Paste your friend's invite link" autocomplete="off"></label><button id="hscopy">Copy invite</button><button id="hsjoin">Join game</button><button id="hsleave">Disconnect</button><button id="hsview">Return to field</button>
+<details><summary>Connection settings</summary><label>Optional ICE servers JSON (for your TURN service)<input id="hsice" placeholder='[{"urls":"turn:your-server","username":"…","credential":"…"}]'></label><p>HTTPS required. Direct connections may need TURN on restrictive networks. KV room setup can take a minute.</p></details>
+<p id="hsstatus" role="status">Backend: https://backend.arthyion.com</p></section>
+<section><h2>State guide</h2><label>State <select id="hsstate"></select></label><p id="hsdetails"></p><p>Custom small-field playoffs, not official association classifications. School colors and ratings are mod presets. Rivalry pairings are game assignments.</p></section>
+<section><h2>Before kickoff</h2><p>Start a fresh career. This edition uses a separate save namespace. Existing college careers are not converted.</p><p>The online backend must be deployed before hosting works. Setup is in the existing README. Exhibition does not advance your career.</p><p id="hsready">Loading game engine…</p></section></div></div></div>
+<script>
+window.HS={scheduleMode:localStorage.getItem('rbhs.schedule')||'state',local:false,role:null,pc:null,channel:null,stream:null,poll:null,remoteDispatch:false};
+(()=>{
+const H=window.HS,$=id=>document.getElementById(id),panel=$('hspanel'),canvas=$('canvas'),video=$('hsremote'),base='https://backend.arthyion.com';
+const status=s=>$('hsstatus').textContent=s;
+H.master=()=>{try{return Object.values(GetWithArray(YYASSET_REF(0x00000062)))[0];}catch{return null;}};
+H.possession=()=>{try{return (Object.values(GetWithArray(YYASSET_REF(0x00000050)))[0]||Object.values(GetWithArray(YYASSET_REF(0x00000069)))[0])?.gmlpossession??-1;}catch{return -1;}};
+function exhibition(){if($('hsaway').value===$('hshome').value)throw Error('Choose two different schools.');const m=H.master();if(!m)throw Error('Engine is still loading. Try again shortly.');if(!global.gmlexhibition){gml_Script_btn_click_exhibition_start(m,m);}ds_map_set(global.gmlexh_fix,'away_team',Number($('hsaway').value));ds_map_set(global.gmlexh_fix,'home_team',Number($('hshome').value));m.gmlplayerteamindex=-1;H.local=true;room_goto(YYASSET_REF(0x0300002f));panel.hidden=true;}
+$('hsmenu').onclick=()=>panel.hidden=!panel.hidden;
+$('hscareer').onclick=()=>{panel.hidden=true;};
+$('hslocal').onclick=()=>{try{exhibition();}catch(e){status(e.message);}};
+$('hsschedule').value=H.scheduleMode;$('hsschedule').onchange=e=>{H.scheduleMode=e.target.value;localStorage.setItem('rbhs.schedule',H.scheduleMode);};
+$('hsview').onclick=()=>panel.hidden=true;
+const states=[{"state": "Alabama", "ab": "AL", "conference": 2, "qualifiers": 2, "openingWeek": 17, "finalWeek": 17, "final": 2002, "schools": ["Hoover", "Thompson", "Auburn", "Central Phenix City"]}, {"state": "Alaska", "ab": "AK", "conference": 3, "qualifiers": 3, "openingWeek": 17, "finalWeek": 18, "final": 2012, "schools": ["West Anchorage", "East Anchorage", "South Anchorage", "Juneau-Douglas"]}, {"state": "Arizona", "ab": "AZ", "conference": 4, "qualifiers": 4, "openingWeek": 17, "finalWeek": 18, "final": 2022, "schools": ["Chandler", "Hamilton", "Basha", "Saguaro"]}, {"state": "Arkansas", "ab": "AR", "conference": 5, "qualifiers": 2, "openingWeek": 18, "finalWeek": 18, "final": 2032, "schools": ["Bryant", "Benton", "Pulaski Academy", "Greenwood"]}, {"state": "California", "ab": "CA", "conference": 6, "qualifiers": 3, "openingWeek": 18, "finalWeek": 19, "final": 2042, "schools": ["Mater Dei", "St. John Bosco", "De La Salle", "Centennial Corona"]}, {"state": "Colorado", "ab": "CO", "conference": 7, "qualifiers": 4, "openingWeek": 18, "finalWeek": 19, "final": 2052, "schools": ["Cherry Creek", "Valor Christian", "Columbine", "Pomona"]}, {"state": "Connecticut", "ab": "CT", "conference": 8, "qualifiers": 2, "openingWeek": 19, "finalWeek": 19, "final": 2062, "schools": ["Darien", "New Canaan", "Greenwich", "Staples"]}, {"state": "Delaware", "ab": "DE", "conference": 9, "qualifiers": 3, "openingWeek": 19, "finalWeek": 20, "final": 2072, "schools": ["Smyrna", "Middletown", "Salesianum", "Dover"]}, {"state": "Florida", "ab": "FL", "conference": 10, "qualifiers": 4, "openingWeek": 19, "finalWeek": 20, "final": 2082, "schools": ["St. Thomas Aquinas", "American Heritage", "Miami Central", "Miami Northwestern"]}, {"state": "Georgia", "ab": "GA", "conference": 11, "qualifiers": 2, "openingWeek": 17, "finalWeek": 17, "final": 2092, "schools": ["Buford", "Mill Creek", "Valdosta", "Lowndes"]}, {"state": "Hawaii", "ab": "HI", "conference": 12, "qualifiers": 3, "openingWeek": 17, "finalWeek": 18, "final": 2102, "schools": ["Kahuku", "Saint Louis", "Punahou", "Mililani"]}, {"state": "Idaho", "ab": "ID", "conference": 13, "qualifiers": 4, "openingWeek": 17, "finalWeek": 18, "final": 2112, "schools": ["Rocky Mountain", "Eagle", "Highland Pocatello", "Rigby"]}, {"state": "Illinois", "ab": "IL", "conference": 14, "qualifiers": 2, "openingWeek": 18, "finalWeek": 18, "final": 2122, "schools": ["Loyola Academy", "Mount Carmel", "East St. Louis", "Lincoln-Way East"]}, {"state": "Indiana", "ab": "IN", "conference": 15, "qualifiers": 3, "openingWeek": 18, "finalWeek": 19, "final": 2132, "schools": ["Center Grove", "Carmel", "Ben Davis", "Warren Central"]}, {"state": "Iowa", "ab": "IA", "conference": 16, "qualifiers": 4, "openingWeek": 18, "finalWeek": 19, "final": 2142, "schools": ["Valley West Des Moines", "Dowling Catholic", "Southeast Polk", "Ankeny"]}, {"state": "Kansas", "ab": "KS", "conference": 17, "qualifiers": 2, "openingWeek": 19, "finalWeek": 19, "final": 2152, "schools": ["Derby", "Maize", "Bishop Miege", "St. Thomas Aquinas"]}, {"state": "Kentucky", "ab": "KY", "conference": 18, "qualifiers": 3, "openingWeek": 19, "finalWeek": 20, "final": 2162, "schools": ["Trinity Louisville", "St. Xavier Louisville", "Male Louisville", "Bowling Green"]}, {"state": "Louisiana", "ab": "LA", "conference": 19, "qualifiers": 4, "openingWeek": 19, "finalWeek": 20, "final": 2172, "schools": ["John Curtis Christian", "Edna Karr", "Destrehan", "Zachary"]}, {"state": "Maine", "ab": "ME", "conference": 20, "qualifiers": 2, "openingWeek": 17, "finalWeek": 17, "final": 2182, "schools": ["Thornton Academy", "Bonny Eagle", "Portland", "South Portland"]}, {"state": "Maryland", "ab": "MD", "conference": 21, "qualifiers": 3, "openingWeek": 17, "finalWeek": 18, "final": 2192, "schools": ["DeMatha Catholic", "Good Counsel", "St. Frances Academy", "Calvert Hall"]}, {"state": "Massachusetts", "ab": "MA", "conference": 22, "qualifiers": 4, "openingWeek": 17, "finalWeek": 18, "final": 2202, "schools": ["Catholic Memorial", "Xaverian Brothers", "Everett", "St. John's Prep"]}, {"state": "Michigan", "ab": "MI", "conference": 23, "qualifiers": 2, "openingWeek": 18, "finalWeek": 18, "final": 2212, "schools": ["Belleville", "Cass Tech", "Detroit Catholic Central", "De La Salle Collegiate"]}, {"state": "Minnesota", "ab": "MN", "conference": 24, "qualifiers": 3, "openingWeek": 18, "finalWeek": 19, "final": 2222, "schools": ["Eden Prairie", "Lakeville South", "Maple Grove", "Wayzata"]}, {"state": "Mississippi", "ab": "MS", "conference": 25, "qualifiers": 4, "openingWeek": 18, "finalWeek": 19, "final": 2232, "schools": ["Northeast Lauderdale", "West Lauderdale", "Meridian", "Oak Grove"]}, {"state": "Missouri", "ab": "MO", "conference": 26, "qualifiers": 2, "openingWeek": 19, "finalWeek": 19, "final": 2242, "schools": ["Christian Brothers College", "De Smet Jesuit", "Lee's Summit North", "Liberty North"]}, {"state": "Montana", "ab": "MT", "conference": 27, "qualifiers": 3, "openingWeek": 19, "finalWeek": 20, "final": 2252, "schools": ["Bozeman", "Gallatin", "Billings West", "Helena Capital"]}, {"state": "Nebraska", "ab": "NE", "conference": 28, "qualifiers": 4, "openingWeek": 19, "finalWeek": 20, "final": 2262, "schools": ["Omaha Westside", "Millard South", "Bellevue West", "Gretna"]}, {"state": "Nevada", "ab": "NV", "conference": 29, "qualifiers": 2, "openingWeek": 17, "finalWeek": 17, "final": 2272, "schools": ["Bishop Gorman", "Liberty Henderson", "Arbor View", "Faith Lutheran"]}, {"state": "New Hampshire", "ab": "NH", "conference": 30, "qualifiers": 3, "openingWeek": 17, "finalWeek": 18, "final": 2282, "schools": ["Bedford", "Londonderry", "Pinkerton Academy", "Exeter"]}, {"state": "New Jersey", "ab": "NJ", "conference": 31, "qualifiers": 4, "openingWeek": 17, "finalWeek": 18, "final": 2292, "schools": ["Bergen Catholic", "Don Bosco Prep", "St. Joseph Regional", "St. Peter's Prep"]}, {"state": "New Mexico", "ab": "NM", "conference": 32, "qualifiers": 2, "openingWeek": 18, "finalWeek": 18, "final": 2302, "schools": ["La Cueva", "Cleveland Rio Rancho", "Rio Rancho", "Centennial Las Cruces"]}, {"state": "New York", "ab": "NY", "conference": 33, "qualifiers": 3, "openingWeek": 18, "finalWeek": 19, "final": 2312, "schools": ["Massapequa", "Farmingdale", "Iona Prep", "St. Anthony's"]}, {"state": "North Carolina", "ab": "NC", "conference": 34, "qualifiers": 4, "openingWeek": 18, "finalWeek": 19, "final": 2322, "schools": ["Grimsley", "Dudley", "Mallard Creek", "Butler"]}, {"state": "North Dakota", "ab": "ND", "conference": 35, "qualifiers": 2, "openingWeek": 19, "finalWeek": 19, "final": 2332, "schools": ["Fargo Shanley", "West Fargo Sheyenne", "Bismarck Century", "Bismarck Legacy"]}, {"state": "Ohio", "ab": "OH", "conference": 36, "qualifiers": 3, "openingWeek": 19, "finalWeek": 20, "final": 2342, "schools": ["St. Edward", "St. Ignatius", "Archbishop Moeller", "St. Xavier Cincinnati"]}, {"state": "Oklahoma", "ab": "OK", "conference": 37, "qualifiers": 4, "openingWeek": 19, "finalWeek": 20, "final": 2352, "schools": ["Jenks", "Union Tulsa", "Bixby", "Owasso"]}, {"state": "Oregon", "ab": "OR", "conference": 38, "qualifiers": 2, "openingWeek": 17, "finalWeek": 17, "final": 2362, "schools": ["West Linn", "Lake Oswego", "Central Catholic", "Sheldon"]}, {"state": "Pennsylvania", "ab": "PA", "conference": 39, "qualifiers": 3, "openingWeek": 17, "finalWeek": 18, "final": 2372, "schools": ["St. Joseph's Prep", "La Salle College", "Pine-Richland", "North Allegheny"]}, {"state": "Rhode Island", "ab": "RI", "conference": 40, "qualifiers": 4, "openingWeek": 17, "finalWeek": 18, "final": 2382, "schools": ["Bishop Hendricken", "La Salle Academy", "North Kingstown", "Central Providence"]}, {"state": "South Carolina", "ab": "SC", "conference": 41, "qualifiers": 2, "openingWeek": 18, "finalWeek": 18, "final": 2392, "schools": ["Dutch Fork", "Irmo", "Gaffney", "Spartanburg"]}, {"state": "South Dakota", "ab": "SD", "conference": 42, "qualifiers": 3, "openingWeek": 18, "finalWeek": 19, "final": 2402, "schools": ["Harrisburg", "Brandon Valley", "Sioux Falls Lincoln", "Sioux Falls Jefferson"]}, {"state": "Tennessee", "ab": "TN", "conference": 43, "qualifiers": 4, "openingWeek": 18, "finalWeek": 19, "final": 2412, "schools": ["Alcoa", "Maryville", "Oakland", "Riverdale"]}, {"state": "Texas", "ab": "TX", "conference": 44, "qualifiers": 2, "openingWeek": 19, "finalWeek": 19, "final": 2422, "schools": ["Duncanville", "DeSoto", "North Shore", "Katy"]}, {"state": "Utah", "ab": "UT", "conference": 45, "qualifiers": 3, "openingWeek": 19, "finalWeek": 20, "final": 2432, "schools": ["Corner Canyon", "Lone Peak", "Skyridge", "American Fork"]}, {"state": "Vermont", "ab": "VT", "conference": 46, "qualifiers": 4, "openingWeek": 19, "finalWeek": 20, "final": 2442, "schools": ["Rutland", "Burr and Burton", "Champlain Valley Union", "Middlebury"]}, {"state": "Virginia", "ab": "VA", "conference": 47, "qualifiers": 2, "openingWeek": 17, "finalWeek": 17, "final": 2452, "schools": ["Highland Springs", "Varina", "Oscar Smith", "Phoebus"]}, {"state": "Washington", "ab": "WA", "conference": 48, "qualifiers": 3, "openingWeek": 17, "finalWeek": 18, "final": 2462, "schools": ["Graham-Kapowsin", "Sumner", "Lake Stevens", "Eastlake"]}, {"state": "West Virginia", "ab": "WV", "conference": 49, "qualifiers": 4, "openingWeek": 17, "finalWeek": 18, "final": 2472, "schools": ["Martinsburg", "Musselman", "Huntington", "Cabell Midland"]}, {"state": "Wisconsin", "ab": "WI", "conference": 50, "qualifiers": 2, "openingWeek": 18, "finalWeek": 18, "final": 2482, "schools": ["Kimberly", "Kaukauna", "Muskego", "Arrowhead"]}, {"state": "Wyoming", "ab": "WY", "conference": 51, "qualifiers": 3, "openingWeek": 18, "finalWeek": 19, "final": 2492, "schools": ["Sheridan", "Thunder Basin", "Cheyenne East", "Natrona County"]}];
+states.forEach((s,i)=>s.schools.forEach((name,j)=>{for(const id of ['hsaway','hshome']){const option=document.createElement('option');option.value=32+i*4+j;option.textContent=s.ab+' • '+name;$(id).append(option);}}));$('hsaway').value='124';$('hshome').value='125';
+for(const s of states){const o=document.createElement('option');o.value=s.ab;o.textContent=s.state;$('hsstate').append(o);}
+function stateInfo(){const s=states.find(s=>s.ab===$('hsstate').value);$('hsdetails').textContent=s.schools.join(' • ')+'\nTop '+s.qualifiers+' qualify. Opening week '+s.openingWeek+'; championship week '+s.finalWeek+'. Final-week rivalries: '+s.schools[0]+' vs '+s.schools[1]+'; '+s.schools[2]+' vs '+s.schools[3]+'.';}
+$('hsstate').value='MS';$('hsstate').onchange=stateInfo;stateInfo();
+async function api(path,method='GET',body,token){const r=await fetch(base+path,{method,headers:{'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{})},body:body?JSON.stringify(body):undefined});const data=await r.json();if(!r.ok)throw Error(data.error||'Backend error '+r.status);return data;}
+function close(){clearInterval(H.poll);H.poll=null;H.channel?.close();H.pc?.close();H.stream?.getTracks().forEach(t=>t.stop());H.pc=null;H.channel=null;H.role=null;H.stream=null;video.srcObject=null;video.style.display='none';canvas.style.visibility='';status('Disconnected.');}
+$('hsleave').onclick=close;
+function setup(){let iceServers=[{urls:'stun:stun.l.google.com:19302'}];if($('hsice').value.trim())iceServers=JSON.parse($('hsice').value);const pc=new RTCPeerConnection({iceServers});H.pc=pc;pc.onconnectionstatechange=()=>{status('Connection: '+pc.connectionState);if(pc.connectionState==='failed')status('Connection failed. Try a TURN server in Connection settings, then create a new invite.');};return pc;}
+function gathered(pc){return new Promise((resolve,reject)=>{if(pc.iceGatheringState==='complete')return resolve();const timer=setTimeout(()=>{pc.removeEventListener('icegatheringstatechange',check);reject(Error('ICE gathering timed out. Retry or configure TURN.'));},20000);function check(){if(pc.iceGatheringState==='complete'){clearTimeout(timer);pc.removeEventListener('icegatheringstatechange',check);resolve();}}pc.addEventListener('icegatheringstatechange',check);});}
+function channel(c){H.channel=c;c.onopen=()=>{status('Connected. Host controls away offense; guest controls home offense.');panel.hidden=true;};c.onmessage=e=>{if(H.role!=='host'||H.possession()!==1)return;try{const d=JSON.parse(e.data);if(!['mousedown','mousemove','mouseup'].includes(d.type)||!Number.isFinite(d.x)||!Number.isFinite(d.y))return;const r=canvas.getBoundingClientRect();H.remoteDispatch=true;canvas.dispatchEvent(new MouseEvent(d.type,{bubbles:true,cancelable:true,view:window,clientX:r.left+Math.max(0,Math.min(1,d.x))*r.width,clientY:r.top+Math.max(0,Math.min(1,d.y))*r.height,button:0,buttons:d.type==='mouseup'?0:1}));H.remoteDispatch=false;}catch{H.remoteDispatch=false;}};}
+$('hshost').onclick=async()=>{close();try{exhibition();panel.hidden=false;H.role='host';status('Preparing room…');const pc=setup();H.stream=canvas.captureStream(30);for(const t of H.stream.getTracks())pc.addTrack(t,H.stream);channel(pc.createDataChannel('controls',{ordered:true}));await pc.setLocalDescription(await pc.createOffer());await gathered(pc);const room=await api('/api/rooms','POST',{offer:pc.localDescription});const invite=new URL(location.href);invite.hash='join='+room.id+':'+room.guestToken;$('hsinvite').value=invite.href;status('Share the invite. Waiting for your opponent…');let busy=false;const deadline=Date.now()+240000;H.poll=setInterval(async()=>{if(busy)return;busy=true;try{if(Date.now()>deadline){clearInterval(H.poll);status('Room connection timed out. Host a new game to retry.');return;}const data=await api('/api/rooms/'+room.id,'GET',null,room.hostToken);if(data.answer&&!pc.remoteDescription){await pc.setRemoteDescription(data.answer);clearInterval(H.poll);}}catch(e){status(e.message);}finally{busy=false;}},3000);}catch(e){close();status(e.message);}};
+$('hscopy').onclick=async()=>{try{await navigator.clipboard.writeText($('hsinvite').value);status('Invite copied. Share it privately with your opponent.');}catch{status('Select and copy the invite field.');}};
+$('hsjoin').onclick=async()=>{close();try{const url=new URL($('hsinvite').value);const match=url.hash.match(/^#join=([a-f0-9-]{36}):([a-f0-9]{64})$/);if(!match)throw Error('Paste a complete invite link.');H.role='guest';const pc=setup();pc.ondatachannel=e=>channel(e.channel);pc.ontrack=e=>{video.srcObject=e.streams[0];video.style.display='block';video.play().catch(()=>{});};status('Fetching room…');const room=await api('/api/rooms/'+match[1],'GET',null,match[2]);await pc.setRemoteDescription(room.offer);await pc.setLocalDescription(await pc.createAnswer());await gathered(pc);await api('/api/rooms/'+match[1]+'/answer','POST',{answer:pc.localDescription},match[2]);status('Answer sent. Waiting for KV propagation and connection…');}catch(e){close();status(e.message+' If this is a new room, wait a minute and retry.');}};
+if(location.hash.startsWith('#join=')){$('hsinvite').value=location.href;history.replaceState(null,'',location.pathname+location.search);}
+let lastMove=0;
+for(const type of ['pointerdown','pointermove','pointerup','pointercancel'])video.addEventListener(type,e=>{e.preventDefault();if(H.channel?.readyState!=='open')return;if(type==='pointermove'&&(!e.buttons||performance.now()-lastMove<25))return;lastMove=performance.now();const r=video.getBoundingClientRect(),ratio=(video.videoWidth||853)/(video.videoHeight||480);let w=r.width,h=w/ratio;if(h>r.height){h=r.height;w=h*ratio;}const x=(e.clientX-r.left-(r.width-w)/2)/w,y=(e.clientY-r.top-(r.height-h)/2)/h;if(type==='pointerdown'){video.setPointerCapture(e.pointerId);}H.channel.send(JSON.stringify({type:type==='pointerdown'?'mousedown':type==='pointermove'?'mousemove':'mouseup',x,y}));});
+for(const type of ['mousedown','mousemove','mouseup','touchstart','touchmove','touchend'])window.addEventListener(type,e=>{if(H.role==='host'&&!H.remoteDispatch&&H.possession()===1&&e.target===canvas){e.stopImmediatePropagation();e.preventDefault();}},true);
+setInterval(()=>{const m=H.master();if(m){$('hsready').textContent='Engine ready. Use Continue to game for a career, or Two-player exhibition.';if(H.local&&global.gmlexhibition)m.gmlplayerteamindex=-1;}const turn=H.possession();$('hsbadge').textContent=H.role==='guest'?'ONLINE • GUEST':H.local&&turn>=0?'PLAYER '+(turn+1)+' • OFFENSE':'HIGH SCHOOL EDITION';},300);
+window.addEventListener('beforeunload',close);
+})();
+</script>
+
+</body>
+
+<!-- Custom PostBody code is injected here -->
+
+</html>
