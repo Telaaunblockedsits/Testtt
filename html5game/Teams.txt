@@ -1,0 +1,33 @@
+uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	offense	defense	wins	losses	ties	roof	rainfall	snowfall	helmet
+0	Northeast Lauderdale	0	0	$173f89	$173f89	$ffffff	$ffffff	MS1	10	10	0	0	0	0	40	89	0
+1	West Lauderdale	0	0	$ab1736	$ab1736	$ffffff	$ffffff	MS2	9	5	0	0	0	0	59	0	0
+2	Meridian	0	0	$176445	$176445	$ffffff	$ffffff	MS3	5	8	0	0	0	0	49	52	1
+3	Oak Grove	0	0	$663399	$663399	$ffffff	$ffffff	MS4	4	8	0	0	0	0	47	25	1
+4	Hoover	0	1	$173f89	$173f89	$ffffff	$ffffff	AL1	3	7	0	0	0	0	17	62	0
+5	Thompson	0	1	$ab1736	$ab1736	$ffffff	$ffffff	AL2	10	7	0	0	0	0	40	15	1
+6	Auburn	0	1	$176445	$176445	$ffffff	$ffffff	AL3	7	6	0	0	0	2	17	0	1
+7	Central Phenix City	0	1	$663399	$663399	$ffffff	$ffffff	AL4	6	2	0	0	0	1	5	0	0
+8	West Anchorage	0	2	$173f89	$173f89	$ffffff	$ffffff	AK1	7	8	0	0	0	0	45	19	0
+9	East Anchorage	0	2	$ab1736	$ab1736	$ffffff	$ffffff	AK2	10	7	0	0	0	0	42	14	0
+10	South Anchorage	0	2	$176445	$176445	$ffffff	$ffffff	AK3	6	6	0	0	0	0	40	61	0
+11	Juneau-Douglas	0	2	$663399	$663399	$ffffff	$ffffff	AK4	6	7	0	0	0	0	38	27	0
+12	Chandler	0	3	$173f89	$173f89	$ffffff	$ffffff	AZ1	2	4	0	0	0	2	51	0	1
+13	Hamilton	0	3	$ab1736	$ab1736	$ffffff	$ffffff	AZ2	2	5	0	0	0	1	42	21	0
+14	Basha	0	3	$176445	$176445	$ffffff	$ffffff	AZ3	8	5	0	0	0	0	50	0	1
+15	Saguaro	0	3	$663399	$663399	$ffffff	$ffffff	AZ4	5	5	0	0	0	0	45	2	0
+16	Bryant	1	0	$173f89	$173f89	$ffffff	$ffffff	AR1	8	10	0	0	0	1	39	1	0
+17	Benton	1	0	$ab1736	$ab1736	$ffffff	$ffffff	AR2	6	5	0	0	0	0	47	25	0
+18	Pulaski Academy	1	0	$176445	$176445	$ffffff	$ffffff	AR3	10	10	0	0	0	0	47	15	1
+19	Greenwood	1	0	$663399	$663399	$ffffff	$ffffff	AR4	4	8	0	0	0	0	43	13	0
+20	Mater Dei	1	1	$173f89	$173f89	$ffffff	$ffffff	CA1	4	4	0	0	0	1	9	0	1
+21	St. John Bosco	1	1	$ab1736	$ab1736	$ffffff	$ffffff	CA2	4	6	0	0	0	2	17	0	0
+22	De La Salle	1	1	$176445	$176445	$ffffff	$ffffff	CA3	9	10	0	0	0	0	24	0	0
+23	Centennial Corona	1	1	$663399	$663399	$ffffff	$ffffff	CA4	7	6	0	0	0	0	37	5	1
+24	Cherry Creek	1	2	$173f89	$173f89	$ffffff	$ffffff	CO1	5	3	0	0	0	0	38	35	1
+25	Valor Christian	1	2	$ab1736	$ab1736	$ffffff	$ffffff	CO2	9	5	0	0	0	2	39	32	0
+26	Columbine	1	2	$176445	$176445	$ffffff	$ffffff	CO3	7	7	0	0	0	0	30	48	0
+27	Pomona	1	2	$663399	$663399	$ffffff	$ffffff	CO4	8	3	0	0	0	2	32	53	1
+28	Darien	1	3	$173f89	$173f89	$ffffff	$ffffff	CT1	6	3	0	0	0	1	51	1	1
+29	New Canaan	1	3	$ab1736	$ab1736	$ffffff	$ffffff	CT2	3	5	0	0	0	0	44	2	0
+30	Greenwich	1	3	$176445	$176445	$ffffff	$ffffff	CT3	4	8	0	0	0	2	63	0	0
+31	Staples	1	3	$663399	$663399	$ffffff	$ffffff	CT4	6	7	0	0	0	0	50	0	1
