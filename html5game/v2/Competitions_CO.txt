@@ -1,0 +1,150 @@
+uid	name	conference	division	active	type	time	seed_time	cycle	scheme	cat	city	state	src1	src2	show	pool_cfg	pool	notify	reputation	history_rec	victory_show	reward	editor_group	editor_mode
+100	Alabama	2	0	1	tb	1	0								std			none		none	none	none		
+2002	AL State Championship	2		1	gm	17	17			f		AL	tm:hsseed:2,2	tm:hsseed:2,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+101	Alaska	3	0	1	tb	1	0								std			none		none	none	none		
+2010	AK Play-in	3		1	gm	17	17			po		AK	tm:hsseed:3,3	tm:hsseed:3,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2012	AK State Championship	3		1	gm	18	18			f		AK	tm:c_win:2010	tm:hsseed:3,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+102	Arizona	4	0	1	tb	1	0								std			none		none	none	none		
+2020	AZ Semifinal 1	4		1	gm	17	17			po		AZ	tm:hsseed:4,3	tm:hsseed:4,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2021	AZ Semifinal 2	4		1	gm	17	17			po		AZ	tm:hsseed:4,4	tm:hsseed:4,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2022	AZ State Championship	4		1	gm	18	18			f		AZ	tm:c_win:2020	tm:c_win:2021	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+103	Arkansas	5	0	1	tb	1	0								std			none		none	none	none		
+2032	AR State Championship	5		1	gm	18	17			f		AR	tm:hsseed:5,2	tm:hsseed:5,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+104	California	6	0	1	tb	1	0								std			none		none	none	none		
+2040	CA Play-in	6		1	gm	18	17			po		CA	tm:hsseed:6,3	tm:hsseed:6,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2042	CA State Championship	6		1	gm	19	19			f		CA	tm:c_win:2040	tm:hsseed:6,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+105	Colorado	7	0	1	tb	1	0								std			none		none	none	none		
+2050	CO Semifinal 1	7		1	gm	18	17			po		CO	tm:hsseed:7,4	tm:hsseed:7,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2051	CO Semifinal 2	7		1	gm	18	17			po		CO	tm:hsseed:7,3	tm:hsseed:7,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2052	CO State Championship	7		1	gm	19	19			f		CO	tm:c_win:2050	tm:c_win:2051	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+106	Connecticut	8	0	1	tb	1	0								std			none		none	none	none		
+2062	CT State Championship	8		1	gm	19	17			f		CT	tm:hsseed:8,2	tm:hsseed:8,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+107	Delaware	9	0	1	tb	1	0								std			none		none	none	none		
+2070	DE Play-in	9		1	gm	19	17			po		DE	tm:hsseed:9,3	tm:hsseed:9,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2072	DE State Championship	9		1	gm	20	20			f		DE	tm:c_win:2070	tm:hsseed:9,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+108	Florida	10	0	1	tb	1	0								std			none		none	none	none		
+2080	FL Semifinal 1	10		1	gm	19	17			po		FL	tm:hsseed:10,3	tm:hsseed:10,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2081	FL Semifinal 2	10		1	gm	19	17			po		FL	tm:hsseed:10,4	tm:hsseed:10,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2082	FL State Championship	10		1	gm	20	20			f		FL	tm:c_win:2080	tm:c_win:2081	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+109	Georgia	11	0	1	tb	1	0								std			none		none	none	none		
+2092	GA State Championship	11		1	gm	17	17			f		GA	tm:hsseed:11,2	tm:hsseed:11,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+110	Hawaii	12	0	1	tb	1	0								std			none		none	none	none		
+2100	HI Play-in	12		1	gm	17	17			po		HI	tm:hsseed:12,3	tm:hsseed:12,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2102	HI State Championship	12		1	gm	18	18			f		HI	tm:c_win:2100	tm:hsseed:12,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+111	Idaho	13	0	1	tb	1	0								std			none		none	none	none		
+2110	ID Semifinal 1	13		1	gm	17	17			po		ID	tm:hsseed:13,4	tm:hsseed:13,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2111	ID Semifinal 2	13		1	gm	17	17			po		ID	tm:hsseed:13,3	tm:hsseed:13,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2112	ID State Championship	13		1	gm	18	18			f		ID	tm:c_win:2110	tm:c_win:2111	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+112	Illinois	14	0	1	tb	1	0								std			none		none	none	none		
+2122	IL State Championship	14		1	gm	18	17			f		IL	tm:hsseed:14,2	tm:hsseed:14,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+113	Indiana	15	0	1	tb	1	0								std			none		none	none	none		
+2130	IN Play-in	15		1	gm	18	17			po		IN	tm:hsseed:15,3	tm:hsseed:15,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2132	IN State Championship	15		1	gm	19	19			f		IN	tm:c_win:2130	tm:hsseed:15,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+114	Iowa	16	0	1	tb	1	0								std			none		none	none	none		
+2140	IA Semifinal 1	16		1	gm	18	17			po		IA	tm:hsseed:16,3	tm:hsseed:16,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2141	IA Semifinal 2	16		1	gm	18	17			po		IA	tm:hsseed:16,4	tm:hsseed:16,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2142	IA State Championship	16		1	gm	19	19			f		IA	tm:c_win:2140	tm:c_win:2141	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+115	Kansas	17	0	1	tb	1	0								std			none		none	none	none		
+2152	KS State Championship	17		1	gm	19	17			f		KS	tm:hsseed:17,2	tm:hsseed:17,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+116	Kentucky	18	0	1	tb	1	0								std			none		none	none	none		
+2160	KY Play-in	18		1	gm	19	17			po		KY	tm:hsseed:18,3	tm:hsseed:18,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2162	KY State Championship	18		1	gm	20	20			f		KY	tm:c_win:2160	tm:hsseed:18,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+117	Louisiana	19	0	1	tb	1	0								std			none		none	none	none		
+2170	LA Semifinal 1	19		1	gm	19	17			po		LA	tm:hsseed:19,4	tm:hsseed:19,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2171	LA Semifinal 2	19		1	gm	19	17			po		LA	tm:hsseed:19,3	tm:hsseed:19,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2172	LA State Championship	19		1	gm	20	20			f		LA	tm:c_win:2170	tm:c_win:2171	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+118	Maine	20	0	1	tb	1	0								std			none		none	none	none		
+2182	ME State Championship	20		1	gm	17	17			f		ME	tm:hsseed:20,2	tm:hsseed:20,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+119	Maryland	21	0	1	tb	1	0								std			none		none	none	none		
+2190	MD Play-in	21		1	gm	17	17			po		MD	tm:hsseed:21,3	tm:hsseed:21,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2192	MD State Championship	21		1	gm	18	18			f		MD	tm:c_win:2190	tm:hsseed:21,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+120	Massachusetts	22	0	1	tb	1	0								std			none		none	none	none		
+2200	MA Semifinal 1	22		1	gm	17	17			po		MA	tm:hsseed:22,3	tm:hsseed:22,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2201	MA Semifinal 2	22		1	gm	17	17			po		MA	tm:hsseed:22,4	tm:hsseed:22,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2202	MA State Championship	22		1	gm	18	18			f		MA	tm:c_win:2200	tm:c_win:2201	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+121	Michigan	23	0	1	tb	1	0								std			none		none	none	none		
+2212	MI State Championship	23		1	gm	18	17			f		MI	tm:hsseed:23,2	tm:hsseed:23,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+122	Minnesota	24	0	1	tb	1	0								std			none		none	none	none		
+2220	MN Play-in	24		1	gm	18	17			po		MN	tm:hsseed:24,3	tm:hsseed:24,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2222	MN State Championship	24		1	gm	19	19			f		MN	tm:c_win:2220	tm:hsseed:24,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+123	Mississippi	25	0	1	tb	1	0								std			none		none	none	none		
+2230	MS Semifinal 1	25		1	gm	18	17			po		MS	tm:hsseed:25,4	tm:hsseed:25,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2231	MS Semifinal 2	25		1	gm	18	17			po		MS	tm:hsseed:25,3	tm:hsseed:25,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2232	MS State Championship	25		1	gm	19	19			f		MS	tm:c_win:2230	tm:c_win:2231	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+124	Missouri	26	0	1	tb	1	0								std			none		none	none	none		
+2242	MO State Championship	26		1	gm	19	17			f		MO	tm:hsseed:26,2	tm:hsseed:26,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+125	Montana	27	0	1	tb	1	0								std			none		none	none	none		
+2250	MT Play-in	27		1	gm	19	17			po		MT	tm:hsseed:27,3	tm:hsseed:27,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2252	MT State Championship	27		1	gm	20	20			f		MT	tm:c_win:2250	tm:hsseed:27,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+126	Nebraska	28	0	1	tb	1	0								std			none		none	none	none		
+2260	NE Semifinal 1	28		1	gm	19	17			po		NE	tm:hsseed:28,3	tm:hsseed:28,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2261	NE Semifinal 2	28		1	gm	19	17			po		NE	tm:hsseed:28,4	tm:hsseed:28,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2262	NE State Championship	28		1	gm	20	20			f		NE	tm:c_win:2260	tm:c_win:2261	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+127	Nevada	29	0	1	tb	1	0								std			none		none	none	none		
+2272	NV State Championship	29		1	gm	17	17			f		NV	tm:hsseed:29,2	tm:hsseed:29,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+128	New Hampshire	30	0	1	tb	1	0								std			none		none	none	none		
+2280	NH Play-in	30		1	gm	17	17			po		NH	tm:hsseed:30,3	tm:hsseed:30,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2282	NH State Championship	30		1	gm	18	18			f		NH	tm:c_win:2280	tm:hsseed:30,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+129	New Jersey	31	0	1	tb	1	0								std			none		none	none	none		
+2290	NJ Semifinal 1	31		1	gm	17	17			po		NJ	tm:hsseed:31,4	tm:hsseed:31,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2291	NJ Semifinal 2	31		1	gm	17	17			po		NJ	tm:hsseed:31,3	tm:hsseed:31,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2292	NJ State Championship	31		1	gm	18	18			f		NJ	tm:c_win:2290	tm:c_win:2291	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+130	New Mexico	32	0	1	tb	1	0								std			none		none	none	none		
+2302	NM State Championship	32		1	gm	18	17			f		NM	tm:hsseed:32,2	tm:hsseed:32,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+131	New York	33	0	1	tb	1	0								std			none		none	none	none		
+2310	NY Play-in	33		1	gm	18	17			po		NY	tm:hsseed:33,3	tm:hsseed:33,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2312	NY State Championship	33		1	gm	19	19			f		NY	tm:c_win:2310	tm:hsseed:33,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+132	North Carolina	34	0	1	tb	1	0								std			none		none	none	none		
+2320	NC Semifinal 1	34		1	gm	18	17			po		NC	tm:hsseed:34,3	tm:hsseed:34,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2321	NC Semifinal 2	34		1	gm	18	17			po		NC	tm:hsseed:34,4	tm:hsseed:34,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2322	NC State Championship	34		1	gm	19	19			f		NC	tm:c_win:2320	tm:c_win:2321	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+133	North Dakota	35	0	1	tb	1	0								std			none		none	none	none		
+2332	ND State Championship	35		1	gm	19	17			f		ND	tm:hsseed:35,2	tm:hsseed:35,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+134	Ohio	36	0	1	tb	1	0								std			none		none	none	none		
+2340	OH Play-in	36		1	gm	19	17			po		OH	tm:hsseed:36,3	tm:hsseed:36,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2342	OH State Championship	36		1	gm	20	20			f		OH	tm:c_win:2340	tm:hsseed:36,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+135	Oklahoma	37	0	1	tb	1	0								std			none		none	none	none		
+2350	OK Semifinal 1	37		1	gm	19	17			po		OK	tm:hsseed:37,4	tm:hsseed:37,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2351	OK Semifinal 2	37		1	gm	19	17			po		OK	tm:hsseed:37,3	tm:hsseed:37,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2352	OK State Championship	37		1	gm	20	20			f		OK	tm:c_win:2350	tm:c_win:2351	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+136	Oregon	38	0	1	tb	1	0								std			none		none	none	none		
+2362	OR State Championship	38		1	gm	17	17			f		OR	tm:hsseed:38,2	tm:hsseed:38,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+137	Pennsylvania	39	0	1	tb	1	0								std			none		none	none	none		
+2370	PA Play-in	39		1	gm	17	17			po		PA	tm:hsseed:39,3	tm:hsseed:39,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2372	PA State Championship	39		1	gm	18	18			f		PA	tm:c_win:2370	tm:hsseed:39,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+138	Rhode Island	40	0	1	tb	1	0								std			none		none	none	none		
+2380	RI Semifinal 1	40		1	gm	17	17			po		RI	tm:hsseed:40,3	tm:hsseed:40,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2381	RI Semifinal 2	40		1	gm	17	17			po		RI	tm:hsseed:40,4	tm:hsseed:40,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2382	RI State Championship	40		1	gm	18	18			f		RI	tm:c_win:2380	tm:c_win:2381	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+139	South Carolina	41	0	1	tb	1	0								std			none		none	none	none		
+2392	SC State Championship	41		1	gm	18	17			f		SC	tm:hsseed:41,2	tm:hsseed:41,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+140	South Dakota	42	0	1	tb	1	0								std			none		none	none	none		
+2400	SD Play-in	42		1	gm	18	17			po		SD	tm:hsseed:42,3	tm:hsseed:42,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2402	SD State Championship	42		1	gm	19	19			f		SD	tm:c_win:2400	tm:hsseed:42,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+141	Tennessee	43	0	1	tb	1	0								std			none		none	none	none		
+2410	TN Semifinal 1	43		1	gm	18	17			po		TN	tm:hsseed:43,4	tm:hsseed:43,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2411	TN Semifinal 2	43		1	gm	18	17			po		TN	tm:hsseed:43,3	tm:hsseed:43,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2412	TN State Championship	43		1	gm	19	19			f		TN	tm:c_win:2410	tm:c_win:2411	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+142	Texas	44	0	1	tb	1	0								std			none		none	none	none		
+2422	TX State Championship	44		1	gm	19	17			f		TX	tm:hsseed:44,2	tm:hsseed:44,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+143	Utah	45	0	1	tb	1	0								std			none		none	none	none		
+2430	UT Play-in	45		1	gm	19	17			po		UT	tm:hsseed:45,3	tm:hsseed:45,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2432	UT State Championship	45		1	gm	20	20			f		UT	tm:c_win:2430	tm:hsseed:45,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+144	Vermont	46	0	1	tb	1	0								std			none		none	none	none		
+2440	VT Semifinal 1	46		1	gm	19	17			po		VT	tm:hsseed:46,3	tm:hsseed:46,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2441	VT Semifinal 2	46		1	gm	19	17			po		VT	tm:hsseed:46,4	tm:hsseed:46,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2442	VT State Championship	46		1	gm	20	20			f		VT	tm:c_win:2440	tm:c_win:2441	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+145	Virginia	47	0	1	tb	1	0								std			none		none	none	none		
+2452	VA State Championship	47		1	gm	17	17			f		VA	tm:hsseed:47,2	tm:hsseed:47,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+146	Washington	48	0	1	tb	1	0								std			none		none	none	none		
+2460	WA Play-in	48		1	gm	17	17			po		WA	tm:hsseed:48,3	tm:hsseed:48,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2462	WA State Championship	48		1	gm	18	18			f		WA	tm:c_win:2460	tm:hsseed:48,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+147	West Virginia	49	0	1	tb	1	0								std			none		none	none	none		
+2470	WV Semifinal 1	49		1	gm	17	17			po		WV	tm:hsseed:49,4	tm:hsseed:49,1	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2471	WV Semifinal 2	49		1	gm	17	17			po		WV	tm:hsseed:49,3	tm:hsseed:49,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2472	WV State Championship	49		1	gm	18	18			f		WV	tm:c_win:2470	tm:c_win:2471	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+148	Wisconsin	50	0	1	tb	1	0								std			none		none	none	none		
+2482	WI State Championship	50		1	gm	18	17			f		WI	tm:hsseed:50,2	tm:hsseed:50,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1
+149	Wyoming	51	0	1	tb	1	0								std			none		none	none	none		
+2490	WY Play-in	51		1	gm	18	17			po		WY	tm:hsseed:51,3	tm:hsseed:51,2	std			cv_wl		h_round	none	cc5	misc	ed:finals:1
+2492	WY State Championship	51		1	gm	19	19			f		WY	tm:c_win:2490	tm:hsseed:51,1	std			cv_wl		h_champ	v_gold	cc25	misc	ed:finals:1

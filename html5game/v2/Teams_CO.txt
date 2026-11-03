@@ -1,0 +1,201 @@
+uid	name	tla	conference	division	active	starting	colhelmet	colshirt	colpants	coltertiary	defense	offense	wins	losses	ties	roof	rainfall	snowfall	helmet	rival	academics	type	state	reputation
+32	Hoover	AL1	2	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	40	89	0	33	1	0	AL	y:1:0000
+33	Thompson	AL2	2	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	44	2	0	32	1	0	AL	y:1:0000
+34	Auburn	AL3	2	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	44	2	0	35	1	0	AL	y:1:0000
+35	Central Phenix City	AL4	2	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	50	0	0	34	1	0	AL	y:1:0000
+36	West Anchorage	AK1	3	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	51	1	0	37	1	0	AK	y:1:0000
+37	East Anchorage	AK2	3	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	0	0	0	36	1	0	AK	y:1:0000
+38	South Anchorage	AK3	3	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	59	0	0	39	1	0	AK	y:1:0000
+39	Juneau-Douglas	AK4	3	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	44	2	0	38	1	0	AK	y:1:0000
+40	Chandler	AZ1	4	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	44	2	0	41	1	0	AZ	y:1:0000
+41	Hamilton	AZ2	4	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	38	27	0	40	1	0	AZ	y:1:0000
+42	Basha	AZ3	4	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	2	40	65	0	43	1	0	AZ	y:1:0000
+43	Saguaro	AZ4	4	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	43	1	0	42	1	0	AZ	y:1:0000
+44	Bryant	AR1	5	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	38	1	0	45	1	0	AR	y:1:0000
+45	Benton	AR2	5	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	44	1	0	44	1	0	AR	y:1:0000
+46	Pulaski Academy	AR3	5	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	42	14	0	47	1	0	AR	y:1:0000
+47	Greenwood	AR4	5	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	50	0	0	46	1	0	AR	y:1:0000
+48	Mater Dei	CA1	6	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	51	0	0	49	1	0	CA	y:1:0000
+49	St. John Bosco	CA2	6	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	46	1	0	48	1	0	CA	y:1:0000
+50	De La Salle	CA3	6	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	43	13	0	51	1	0	CA	y:1:0000
+51	Centennial Corona	CA4	6	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	31	1	0	50	1	0	CA	y:1:0000
+52	Cherry Creek	CO1	7	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	50	0	0	53	1	0	CO	y:1:0000
+53	Valor Christian	CO2	7	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	47	15	0	52	1	0	CO	y:1:0000
+54	Columbine	CO3	7	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	50	0	0	55	1	0	CO	y:1:0000
+55	Pomona	CO4	7	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	35	1	0	54	1	0	CO	y:1:0000
+56	Darien	CT1	8	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	50	0	0	57	1	0	CT	y:1:0000
+57	New Canaan	CT2	8	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	43	0	0	56	1	0	CT	y:1:0000
+58	Greenwich	CT3	8	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	36	29	0	59	1	0	CT	y:1:0000
+59	Staples	CT4	8	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	36	15	0	58	1	0	CT	y:1:0000
+60	Smyrna	DE1	9	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	36	15	0	61	1	0	DE	y:1:0000
+61	Middletown	DE2	9	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	33	4	0	60	1	0	DE	y:1:0000
+62	Salesianum	DE3	9	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	34	4	0	63	1	0	DE	y:1:0000
+63	Dover	DE4	9	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	31	1	0	62	1	0	DE	y:1:0000
+64	St. Thomas Aquinas	FL1	10	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	30	0	0	65	1	0	FL	y:1:0000
+65	American Heritage	FL2	10	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	24	1	0	64	1	0	FL	y:1:0000
+66	Miami Central	FL3	10	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	45	15	0	67	1	0	FL	y:1:0000
+67	Miami Northwestern	FL4	10	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	38	31	0	66	1	0	FL	y:1:0000
+68	Buford	GA1	11	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	38	31	0	69	1	0	GA	y:1:0000
+69	Mill Creek	GA2	11	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	36	29	0	68	1	0	GA	y:1:0000
+70	Valdosta	GA3	11	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	47	17	0	71	1	0	GA	y:1:0000
+71	Lowndes	GA4	11	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	40	50	0	70	1	0	GA	y:1:0000
+72	Kahuku	HI1	12	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	40	50	0	73	1	0	HI	y:1:0000
+73	Saint Louis	HI2	12	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	50	50	0	72	1	0	HI	y:1:0000
+74	Punahou	HI3	12	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	32	30	0	75	1	0	HI	y:1:0000
+75	Mililani	HI4	12	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	38	35	0	74	1	0	HI	y:1:0000
+76	Rocky Mountain	ID1	13	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	40	20	0	77	1	0	ID	y:1:0000
+77	Eagle	ID2	13	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	45	45	2	76	1	0	ID	y:1:0000
+78	Highland Pocatello	ID3	13	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	38	31	0	79	1	0	ID	y:1:0000
+79	Rigby	ID4	13	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	47	25	0	78	1	0	ID	y:1:0000
+80	Loyola Academy	IL1	14	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	33	48	0	81	1	0	IL	y:1:0000
+81	Mount Carmel	IL2	14	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	44	2	0	80	1	0	IL	y:1:0000
+82	East St. Louis	IL3	14	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	50	0	0	83	1	0	IL	y:1:0000
+83	Lincoln-Way East	IL4	14	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	50	0	0	82	1	0	IL	y:1:0000
+84	Center Grove	IN1	15	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	60	0	0	85	1	0	IN	y:1:0000
+85	Carmel	IN2	15	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	40	13	0	84	1	0	IN	y:1:0000
+86	Ben Davis	IN3	15	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	45	2	0	87	1	0	IN	y:1:0000
+87	Warren Central	IN4	15	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	32	1	0	86	1	0	IN	y:1:0000
+88	Valley West Des Moines	IA1	16	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	39	1	0	89	1	0	IA	y:1:0000
+89	Dowling Catholic	IA2	16	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	51	0	0	88	1	0	IA	y:1:0000
+90	Southeast Polk	IA3	16	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	55	0	0	91	1	0	IA	y:1:0000
+91	Ankeny	IA4	16	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	40	0	0	90	1	0	IA	y:1:0000
+92	Derby	KS1	17	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	10	1	0	93	1	0	KS	y:1:0000
+93	Maize	KS2	17	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	2	20	0	0	92	1	0	KS	y:1:0000
+94	Bishop Miege	KS3	17	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	35	2	0	95	1	0	KS	y:1:0000
+95	St. Thomas Aquinas	KS4	17	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	35	2	0	94	1	0	KS	y:1:0000
+96	Trinity Louisville	KY1	18	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	40	25	0	97	1	0	KY	y:1:0000
+97	St. Xavier Louisville	KY2	18	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	30	35	0	96	1	0	KY	y:1:0000
+98	Male Louisville	KY3	18	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	10	1	0	99	1	0	KY	y:1:0000
+99	Bowling Green	KY4	18	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	38	35	0	98	1	0	KY	y:1:0000
+100	John Curtis Christian	LA1	19	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	40	30	0	101	1	0	LA	y:1:0000
+101	Edna Karr	LA2	19	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	40	30	0	100	1	0	LA	y:1:0000
+102	Destrehan	LA3	19	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	40	45	0	103	1	0	LA	y:1:0000
+103	Zachary	LA4	19	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	42	21	0	102	1	0	LA	y:1:0000
+104	Thornton Academy	ME1	20	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	38	29	0	105	1	0	ME	y:1:0000
+105	Bonny Eagle	ME2	20	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	40	89	0	104	1	0	ME	y:1:0000
+106	Portland	ME3	20	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	40	35	0	107	1	0	ME	y:1:0000
+107	South Portland	ME4	20	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	39	32	0	106	1	0	ME	y:1:0000
+108	DeMatha Catholic	MD1	21	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	38	19	0	109	1	0	MD	y:1:0000
+109	Good Counsel	MD2	21	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	40	15	0	108	1	0	MD	y:1:0000
+110	St. Frances Academy	MD3	21	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	38	35	0	111	1	0	MD	y:1:0000
+111	Calvert Hall	MD4	21	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	40	16	0	110	1	0	MD	y:1:0000
+112	Catholic Memorial	MA1	22	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	38	29	0	113	1	0	MA	y:1:0000
+113	Xaverian Brothers	MA2	22	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	41	35	0	112	1	0	MA	y:1:0000
+114	Everett	MA3	22	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	14	67	0	115	1	0	MA	y:1:0000
+115	St. John's Prep	MA4	22	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	40	35	0	114	1	0	MA	y:1:0000
+116	Belleville	MI1	23	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	15	67	0	117	1	0	MI	y:1:0000
+117	Cass Tech	MI2	23	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	15	0	0	116	1	0	MI	y:1:0000
+118	Detroit Catholic Central	MI3	23	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	39	0	0	119	1	0	MI	y:1:0000
+119	De La Salle Collegiate	MI4	23	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	15	10	0	118	1	0	MI	y:1:0000
+120	Eden Prairie	MN1	24	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	13	10	0	121	1	0	MN	y:1:0000
+121	Lakeville South	MN2	24	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	16	0	0	120	1	0	MN	y:1:0000
+122	Maple Grove	MN3	24	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	24	0	0	123	1	0	MN	y:1:0000
+123	Wayzata	MN4	24	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	5	0	0	122	1	0	MN	y:1:0000
+124	Northeast Lauderdale	MS1	25	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	35	30	0	125	1	0	MS	y:1:0000
+125	West Lauderdale	MS2	25	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	17	71	0	124	1	0	MS	y:1:0000
+126	Meridian	MS3	25	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	4	0	0	127	1	0	MS	y:1:0000
+127	Oak Grove	MS4	25	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	4	0	0	126	1	0	MS	y:1:0000
+128	Christian Brothers College	MO1	26	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	20	0	0	129	1	0	MO	y:1:0000
+129	De Smet Jesuit	MO2	26	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	25	65	0	128	1	0	MO	y:1:0000
+130	Lee's Summit North	MO3	26	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	50	5	0	131	1	0	MO	y:1:0000
+131	Liberty North	MO4	26	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	50	5	0	130	1	0	MO	y:1:0000
+132	Bozeman	MT1	27	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	20	0	0	133	1	0	MT	y:1:0000
+133	Gallatin	MT2	27	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	16	0	0	132	1	0	MT	y:1:0000
+134	Billings West	MT3	27	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	16	0	0	135	1	0	MT	y:1:0000
+135	Helena Capital	MT4	27	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	26	40	0	134	1	0	MT	y:1:0000
+136	Omaha Westside	NE1	28	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	67	1	0	137	1	0	NE	y:1:0000
+137	Millard South	NE2	28	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	20	40	0	136	1	0	NE	y:1:0000
+138	Bellevue West	NE3	28	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	45	3	0	139	1	0	NE	y:1:0000
+139	Gretna	NE4	28	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	36	10	0	138	1	0	NE	y:1:0000
+140	Bishop Gorman	NV1	29	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	41	1	0	141	1	0	NV	y:1:0000
+141	Liberty Henderson	NV2	29	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	47	0	0	140	1	0	NV	y:1:0000
+142	Arbor View	NV3	29	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	45	2	0	143	1	0	NV	y:1:0000
+143	Faith Lutheran	NV4	29	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	34	14	0	142	1	0	NV	y:1:0000
+144	Bedford	NH1	30	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	60	0	0	145	1	0	NH	y:1:0000
+145	Londonderry	NH2	30	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	30	0	0	144	1	0	NH	y:1:0000
+146	Pinkerton Academy	NH3	30	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	34	8	0	147	1	0	NH	y:1:0000
+147	Exeter	NH4	30	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	30	0	0	146	1	0	NH	y:1:0000
+148	Bergen Catholic	NJ1	31	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	28	5	0	149	1	0	NJ	y:1:0000
+149	Don Bosco Prep	NJ2	31	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	43	3	0	148	1	0	NJ	y:1:0000
+150	St. Joseph Regional	NJ3	31	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	41	0	0	151	1	0	NJ	y:1:0000
+151	St. Peter's Prep	NJ4	31	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	45	2	0	150	1	0	NJ	y:1:0000
+152	La Cueva	NM1	32	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	40	25	0	153	1	0	NM	y:1:0000
+153	Cleveland Rio Rancho	NM2	32	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	40	10	0	152	1	0	NM	y:1:0000
+154	Rio Rancho	NM3	32	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	27	1	0	155	1	0	NM	y:1:0000
+155	Centennial Las Cruces	NM4	32	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	48	1	0	154	1	0	NM	y:1:0000
+156	Massapequa	NY1	33	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	51	1	0	157	1	0	NY	y:1:0000
+157	Farmingdale	NY2	33	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	54	0	0	156	1	0	NY	y:1:0000
+158	Iona Prep	NY3	33	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	44	0	0	159	1	0	NY	y:1:0000
+159	St. Anthony's	NY4	33	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	54	0	0	158	1	0	NY	y:1:0000
+160	Grimsley	NC1	34	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	39	1	0	161	1	0	NC	y:1:0000
+161	Dudley	NC2	34	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	39	1	0	160	1	0	NC	y:1:0000
+162	Mallard Creek	NC3	34	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	21	1	0	163	1	0	NC	y:1:0000
+163	Butler	NC4	34	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	23	0	0	162	1	0	NC	y:1:0000
+164	Fargo Shanley	ND1	35	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	26	0	0	165	1	0	ND	y:1:0000
+165	West Fargo Sheyenne	ND2	35	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	27	0	0	164	1	0	ND	y:1:0000
+166	Bismarck Century	ND3	35	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	24	0	0	167	1	0	ND	y:1:0000
+167	Bismarck Legacy	ND4	35	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	24	0	0	166	1	0	ND	y:1:0000
+168	St. Edward	OH1	36	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	26	0	0	169	1	0	OH	y:1:0000
+169	St. Ignatius	OH2	36	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	8	0	0	168	1	0	OH	y:1:0000
+170	Archbishop Moeller	OH3	36	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	28	3	0	171	1	0	OH	y:1:0000
+171	St. Xavier Cincinnati	OH4	36	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	2	28	5	0	170	1	0	OH	y:1:0000
+172	Jenks	OK1	37	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	2	28	5	0	173	1	0	OK	y:1:0000
+173	Union Tulsa	OK2	37	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	30	0	0	172	1	0	OK	y:1:0000
+174	Bixby	OK3	37	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	30	0	0	175	1	0	OK	y:1:0000
+175	Owasso	OK4	37	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	2	13	0	0	174	1	0	OK	y:1:0000
+176	West Linn	OR1	38	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	17	0	0	177	1	0	OR	y:1:0000
+177	Lake Oswego	OR2	38	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	50	0	0	176	1	0	OR	y:1:0000
+178	Central Catholic	OR3	38	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	10	0	0	179	1	0	OR	y:1:0000
+179	Sheldon	OR4	38	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	10	0	0	178	1	0	OR	y:1:0000
+180	St. Joseph's Prep	PA1	39	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	23	0	0	181	1	0	PA	y:1:0000
+181	La Salle College	PA2	39	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	39	0	0	180	1	0	PA	y:1:0000
+182	Pine-Richland	PA3	39	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	26	0	0	183	1	0	PA	y:1:0000
+183	North Allegheny	PA4	39	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	26	0	0	182	1	0	PA	y:1:0000
+184	Bishop Hendricken	RI1	40	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	26	0	0	185	1	0	RI	y:1:0000
+185	La Salle Academy	RI2	40	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	26	0	0	184	1	0	RI	y:1:0000
+186	North Kingstown	RI3	40	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	38	27	0	187	1	0	RI	y:1:0000
+187	Central Providence	RI4	40	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	35	0	0	186	1	0	RI	y:1:0000
+188	Dutch Fork	SC1	41	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	29	0	0	189	1	0	SC	y:1:0000
+189	Irmo	SC2	41	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	27	0	0	188	1	0	SC	y:1:0000
+190	Gaffney	SC3	41	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	29	1	0	191	1	0	SC	y:1:0000
+191	Spartanburg	SC4	41	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	42	0	0	190	1	0	SC	y:1:0000
+192	Harrisburg	SD1	42	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	39	0	0	193	1	0	SD	y:1:0000
+193	Brandon Valley	SD2	42	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	33	0	0	192	1	0	SD	y:1:0000
+194	Sioux Falls Lincoln	SD3	42	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	31	4	0	195	1	0	SD	y:1:0000
+195	Sioux Falls Jefferson	SD4	42	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	31	0	0	194	1	0	SD	y:1:0000
+196	Alcoa	TN1	43	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	0	29	0	0	197	1	0	TN	y:1:0000
+197	Maryville	TN2	43	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	0	30	0	0	196	1	0	TN	y:1:0000
+198	Oakland	TN3	43	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	0	29	1	0	199	1	0	TN	y:1:0000
+199	Riverdale	TN4	43	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	0	39	0	0	198	1	0	TN	y:1:0000
+200	Duncanville	TX1	44	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	31	0	0	201	1	0	TX	y:1:0000
+201	DeSoto	TX2	44	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	44	0	0	200	1	0	TX	y:1:0000
+202	North Shore	TX3	44	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	38	0	0	203	1	0	TX	y:1:0000
+203	Katy	TX4	44	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	36	0	0	202	1	0	TX	y:1:0000
+204	Corner Canyon	UT1	45	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	28	0	0	205	1	0	UT	y:1:0000
+205	Lone Peak	UT2	45	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	29	0	0	204	1	0	UT	y:1:0000
+206	Skyridge	UT3	45	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	32	0	0	207	1	0	UT	y:1:0000
+207	American Fork	UT4	45	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	29	0	0	206	1	0	UT	y:1:0000
+208	Rutland	VT1	46	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	26	0	0	209	1	0	VT	y:1:0000
+209	Burr and Burton	VT2	46	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	27	0	0	208	1	0	VT	y:1:0000
+210	Champlain Valley Union	VT3	46	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	29	1	0	211	1	0	VT	y:1:0000
+211	Middlebury	VT4	46	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	26	0	0	210	1	0	VT	y:1:0000
+212	Highland Springs	VA1	47	0	1	1	$173f89	$173f89	$ffffff	$ffffff	4	4	0	0	0	0	27	0	0	213	1	0	VA	y:1:0000
+213	Varina	VA2	47	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	6	5	0	0	0	0	34	0	0	212	1	0	VA	y:1:0000
+214	Oscar Smith	VA3	47	0	1	1	$176445	$176445	$ffffff	$ffffff	8	6	0	0	0	0	27	0	0	215	1	0	VA	y:1:0000
+215	Phoebus	VA4	47	0	1	1	$663399	$663399	$ffffff	$ffffff	5	7	0	0	0	0	27	0	0	214	1	0	VA	y:1:0000
+216	Graham-Kapowsin	WA1	48	0	1	1	$173f89	$173f89	$ffffff	$ffffff	5	5	0	0	0	2	24	0	0	217	1	0	WA	y:1:0000
+217	Sumner	WA2	48	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	7	6	0	0	0	2	24	0	0	216	1	0	WA	y:1:0000
+218	Lake Stevens	WA3	48	0	1	1	$176445	$176445	$ffffff	$ffffff	4	7	0	0	0	2	25	0	0	219	1	0	WA	y:1:0000
+219	Eastlake	WA4	48	0	1	1	$663399	$663399	$ffffff	$ffffff	6	8	0	0	0	2	24	0	0	218	1	0	WA	y:1:0000
+220	Martinsburg	WV1	49	0	1	1	$173f89	$173f89	$ffffff	$ffffff	6	6	0	0	0	0	24	0	0	221	1	0	WV	y:1:0000
+221	Musselman	WV2	49	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	8	7	0	0	0	0	27	0	0	220	1	0	WV	y:1:0000
+222	Huntington	WV3	49	0	1	1	$176445	$176445	$ffffff	$ffffff	5	8	0	0	0	0	27	0	0	223	1	0	WV	y:1:0000
+223	Cabell Midland	WV4	49	0	1	1	$663399	$663399	$ffffff	$ffffff	7	4	0	0	0	0	38	0	0	222	1	0	WV	y:1:0000
+224	Kimberly	WI1	50	0	1	1	$173f89	$173f89	$ffffff	$ffffff	7	7	0	0	0	0	32	0	0	225	1	0	WI	y:1:0000
+225	Kaukauna	WI2	50	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	4	8	0	0	0	0	38	27	0	224	1	0	WI	y:1:0000
+226	Muskego	WI3	50	0	1	1	$176445	$176445	$ffffff	$ffffff	6	4	0	0	0	0	30	0	0	227	1	0	WI	y:1:0000
+227	Arrowhead	WI4	50	0	1	1	$663399	$663399	$ffffff	$ffffff	8	5	0	0	0	0	32	0	0	226	1	0	WI	y:1:0000
+228	Sheridan	WY1	51	0	1	1	$173f89	$173f89	$ffffff	$ffffff	8	8	0	0	0	0	32	0	0	229	1	0	WY	y:1:0000
+229	Thunder Basin	WY2	51	0	1	1	$ab1736	$ab1736	$ffffff	$ffffff	5	4	0	0	0	0	35	0	0	228	1	0	WY	y:1:0000
+230	Cheyenne East	WY3	51	0	1	1	$176445	$176445	$ffffff	$ffffff	7	5	0	0	0	0	34	0	0	231	1	0	WY	y:1:0000
+231	Natrona County	WY4	51	0	1	1	$663399	$663399	$ffffff	$ffffff	4	6	0	0	0	0	29	0	0	230	1	0	WY	y:1:0000

@@ -1,0 +1,51 @@
+uid	name	tla	div_0_name	div_1_name	tier	divisions	active	real_life_tier_name	real_life_name	prestige	completion
+2	Alabama	AL	Varsity	JV	1	1	1	High School	Alabama	2	champ
+3	Alaska	AK	Varsity	JV	1	1	1	High School	Alaska	2	champ
+4	Arizona	AZ	Varsity	JV	1	1	1	High School	Arizona	2	champ
+5	Arkansas	AR	Varsity	JV	1	1	1	High School	Arkansas	2	champ
+6	California	CA	Varsity	JV	1	1	1	High School	California	2	champ
+7	Colorado	CO	Varsity	JV	1	1	1	High School	Colorado	2	champ
+8	Connecticut	CT	Varsity	JV	1	1	1	High School	Connecticut	2	champ
+9	Delaware	DE	Varsity	JV	1	1	1	High School	Delaware	2	champ
+10	Florida	FL	Varsity	JV	1	1	1	High School	Florida	2	champ
+11	Georgia	GA	Varsity	JV	1	1	1	High School	Georgia	2	champ
+12	Hawaii	HI	Varsity	JV	1	1	1	High School	Hawaii	2	champ
+13	Idaho	ID	Varsity	JV	1	1	1	High School	Idaho	2	champ
+14	Illinois	IL	Varsity	JV	1	1	1	High School	Illinois	2	champ
+15	Indiana	IN	Varsity	JV	1	1	1	High School	Indiana	2	champ
+16	Iowa	IA	Varsity	JV	1	1	1	High School	Iowa	2	champ
+17	Kansas	KS	Varsity	JV	1	1	1	High School	Kansas	2	champ
+18	Kentucky	KY	Varsity	JV	1	1	1	High School	Kentucky	2	champ
+19	Louisiana	LA	Varsity	JV	1	1	1	High School	Louisiana	2	champ
+20	Maine	ME	Varsity	JV	1	1	1	High School	Maine	2	champ
+21	Maryland	MD	Varsity	JV	1	1	1	High School	Maryland	2	champ
+22	Massachusetts	MA	Varsity	JV	1	1	1	High School	Massachusetts	2	champ
+23	Michigan	MI	Varsity	JV	1	1	1	High School	Michigan	2	champ
+24	Minnesota	MN	Varsity	JV	1	1	1	High School	Minnesota	2	champ
+25	Mississippi	MS	Varsity	JV	1	1	1	High School	Mississippi	2	champ
+26	Missouri	MO	Varsity	JV	1	1	1	High School	Missouri	2	champ
+27	Montana	MT	Varsity	JV	2	1	1	High School	Montana	2	champ
+28	Nebraska	NE	Varsity	JV	2	1	1	High School	Nebraska	2	champ
+29	Nevada	NV	Varsity	JV	2	1	1	High School	Nevada	2	champ
+30	New Hampshire	NH	Varsity	JV	2	1	1	High School	New Hampshire	2	champ
+31	New Jersey	NJ	Varsity	JV	2	1	1	High School	New Jersey	2	champ
+32	New Mexico	NM	Varsity	JV	2	1	1	High School	New Mexico	2	champ
+33	New York	NY	Varsity	JV	2	1	1	High School	New York	2	champ
+34	North Carolina	NC	Varsity	JV	2	1	1	High School	North Carolina	2	champ
+35	North Dakota	ND	Varsity	JV	2	1	1	High School	North Dakota	2	champ
+36	Ohio	OH	Varsity	JV	2	1	1	High School	Ohio	2	champ
+37	Oklahoma	OK	Varsity	JV	2	1	1	High School	Oklahoma	2	champ
+38	Oregon	OR	Varsity	JV	2	1	1	High School	Oregon	2	champ
+39	Pennsylvania	PA	Varsity	JV	2	1	1	High School	Pennsylvania	2	champ
+40	Rhode Island	RI	Varsity	JV	2	1	1	High School	Rhode Island	2	champ
+41	South Carolina	SC	Varsity	JV	2	1	1	High School	South Carolina	2	champ
+42	South Dakota	SD	Varsity	JV	2	1	1	High School	South Dakota	2	champ
+43	Tennessee	TN	Varsity	JV	2	1	1	High School	Tennessee	2	champ
+44	Texas	TX	Varsity	JV	2	1	1	High School	Texas	2	champ
+45	Utah	UT	Varsity	JV	2	1	1	High School	Utah	2	champ
+46	Vermont	VT	Varsity	JV	2	1	1	High School	Vermont	2	champ
+47	Virginia	VA	Varsity	JV	2	1	1	High School	Virginia	2	champ
+48	Washington	WA	Varsity	JV	2	1	1	High School	Washington	2	champ
+49	West Virginia	WV	Varsity	JV	2	1	1	High School	West Virginia	2	champ
+50	Wisconsin	WI	Varsity	JV	2	1	1	High School	Wisconsin	2	champ
+51	Wyoming	WY	Varsity	JV	2	1	1	High School	Wyoming	2	champ
